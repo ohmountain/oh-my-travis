@@ -1,0 +1,16 @@
+{
+    "name": "nineteen/oy-my-travis",
+    "type": "liblary",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "renshan",
+            "email": "1005110700@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    }
+}
